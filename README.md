@@ -1,6 +1,6 @@
 # Delani-Studio
 #### A website about Delani Studio, June, 2021
-#### By **Wesley Alinyo**
+#### By **Wesley Alinyo.**
 ## Description
 This is a website about Delani Studio by I, Wesley Alinyo, showing the services offered, contacts and type of service offered. It entails some pre and post service customer services so as to ensure maximum customer service.
 ## Setup/Installation Requirements
