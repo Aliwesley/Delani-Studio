@@ -9,7 +9,7 @@ This is a website about Delani Studio by I, Wesley Alinyo, showing various servi
 - Go live or start your server.
 ## Known Bugs;
 No known bugs.
-## Technologies Used
+## Technologies Used;
 Html and Css and JavaScript.
 ## Support and contact details
 wesley.alinyo@student.moringaschool.com on Slack.
