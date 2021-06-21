@@ -15,7 +15,8 @@ Html and Css and JavaScript
 wesley.alinyo@student.moringaschool.com on Slack
 ### License
 Read our [lincences](./Lincense)
-Copyright (c) 2021 **Grant Okello**
+Copyright (c) 2021 
+**Wesley Alinyo**
 
 
 Message Wesley Alinyo
