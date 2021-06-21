@@ -12,7 +12,7 @@ No known bugs.
 ## Technologies Used
 Html and Css and JavaScript.
 ## Support and contact details
-wesley.alinyo@student.moringaschool.com on Slack
+wesley.alinyo@student.moringaschool.com on Slack.
 wesley.alinyo@student.moringaschool.com on Email
 ### License
 Read our [lincences](./Lincense)
