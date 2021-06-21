@@ -6,7 +6,7 @@ This is a website about Delani Studio by I, Wesley Alinyo, showing various servi
 ## Setup/Installation Requirements
 - copy the url on arrow down.
 - Clone on your computer.
-- Go live or start your server
+- Go live or start your server.
 ## Known Bugs
 No known bugs
 ## Technologies Used
