@@ -13,7 +13,7 @@ No known bugs.
 Html and Css and JavaScript.
 ## Support and contact details
 wesley.alinyo@student.moringaschool.com on Slack.
-wesley.alinyo@student.moringaschool.com on Email
+wesley.alinyo@student.moringaschool.com on Email.
 ### License
 Read our [lincences](./Lincense)
 Copyright (c) 2021 
