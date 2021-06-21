@@ -5,7 +5,7 @@
 This is a website about Delani Studio by I, Wesley Alinyo, showing various services offered including contacts. It entails some pre and post service customer services so as to ensure maximum customer service.
 ## Setup/Installation Requirements
 - copy the url on arrow down.
-- Clone on your computer
+- Clone on your computer.
 - Go live or start your server
 ## Known Bugs
 No known bugs
