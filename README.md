@@ -11,7 +11,7 @@ This is a website about Delani Studio by I, Wesley Alinyo, showing various servi
 No known bugs.
 ## Technologies Used;
 Html and Css and JavaScript.
-## Support and contact details
+## Support and contact details;
 wesley.alinyo@student.moringaschool.com on Slack.
 wesley.alinyo@student.moringaschool.com on Email.
 ### License
