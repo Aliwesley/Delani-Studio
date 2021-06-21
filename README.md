@@ -7,7 +7,7 @@ This is a website about Delani Studio by I, Wesley Alinyo, showing various servi
 - copy the url on arrow down.
 - Clone on your computer.
 - Go live or start your server.
-## Known Bugs
+## Known Bugs;
 No known bugs.
 ## Technologies Used
 Html and Css and JavaScript.
